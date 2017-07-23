@@ -22,16 +22,31 @@ public class Aplicacao {
 		
 		// valor contador é static, portanto, valor é compartilhado entre os objetos
 		Contador c1 = new Contador();
+		c1.incrementar();
+		
 		Contador c2 = new Contador();
 		Contador c3 = new Contador();
+		System.out.println("Contador => "+c1.getValor());
 		
-		c1.incrementar();
 		c2.incrementar();
 		c3.incrementar();
 		
-		System.out.println(c1.getValor());
-		System.out.println(c2.getValor());
-		System.out.println(c3.getValor());
+		
+		System.out.println("Contador => "+c2.getValor());
+		System.out.println("Contador => "+c3.getValor());
+		
+		ContadorStatic.incrementar();
+		ContadorStatic.incrementar();
+		ContadorStatic.incrementar();
+		ContadorStatic.incrementar();
+		
+		System.out.println("Contador Static => "+ContadorStatic.getValor());  
+		  
+		double media = Constantes.MEDIA_DA_PROVA;
+		
+		System.out.println("Média Definida=> "+media);
+		
+		//Herança: Utiliza comando extend
 		
 		
 		
