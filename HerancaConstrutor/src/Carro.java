@@ -1,0 +1,47 @@
+/*
+ * this() - referencia aos metodos da propria classe
+ * super  - referencia a classe pai
+ * */
+public class Carro extends Veiculo{
+   private  boolean  quatroPortas;
+   
+public Carro() {
+	System.out.println("  * Carro 5 lugares");
+} 
+
+public Carro(String marca, String modelo, int ano) {
+	
+	/*
+	 * Classe carro tem atributo quatroPortas, porém classe Veículo não tem, 
+	 * portanto, ou o atributo fica null ou carrega atributo via setter, 
+	 * pois, o super abaixo corresponde a classe acima
+	 * 
+	 * Não existe herança de contrutores, porém, 
+	 * somente de métodos
+	 * 
+	 * */
+	
+	super(marca,modelo,ano);	
+	
+	System.out.println("  * Carro 5 lugares");
+	
+}
+
+
+public  boolean isQuatroPortas() {
+	return quatroPortas;
+}
+
+public  void setQuatroPortas(boolean quatroPortas) {
+	this.quatroPortas = quatroPortas;
+}
+   
+   
+public void imprimirDados() {
+	//super  - referencia a classe pai 
+	super.imprimirDados();
+	System.out.println("    - Quatro portas => "+quatroPortas);
+}   
+   
+   
+}

@@ -2,9 +2,8 @@
 public class Aplicacao {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub		
 		
-		System.out.println("* Carro *");
 		Carro c = new Carro();
 		c.setAno(2000);
 		c.setModelo("Brasilia");
@@ -13,15 +12,20 @@ public class Aplicacao {
 		c.imprimirDados();
 		c.buzinar();
 		
-		System.out.println("* Motocicleta *");
+		
+		Carro b = new Carro("VW","Fusca",1974);
+		
+		
+		b.imprimirDados();
+		b.buzinar();
+		
 		Motocicleta m = new Motocicleta();
 		m.setAno(2013);
 		m.setModelo("GSR125");
 		m.setMarca("Suzuki");
 		m.imprimirDados();
-		m.buzinar();
+		m.buzinar();		
 		
-		System.out.println("* Caminhão *");
 		Caminhao cam = new Caminhao();
 		cam.setAno(1974);
 		cam.setMarca("Ford");
