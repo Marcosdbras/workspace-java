@@ -2,7 +2,10 @@
 public class Aplicacao {
  
 	public static void main(String[] args) {
-		
+		/*
+		 * Poliformismo é ideal pra se trabalhar de forma genérica
+		 * 
+		 * */
 		Cachorro c = new Cachorro();
 		c.falar();
 		
@@ -12,16 +15,48 @@ public class Aplicacao {
 		a.falar(); 
 		
 		Animal b = new Cachorro();
-		//b.morder();
+		/*
+		 * b.morder();
+		 * 
+		 * o método acima não pode ser compilado, pois, 
+		 * morder() pertence à classe Cachorro, porém
+		 * não pertence à animal 
+		 * 
+		 * 
+		 * */
+		if (b instanceof Cachorro) {
+			
+			Cachorro d = (Cachorro) b;			 
+			d.morder();	
+			
+		}
+		 
+		 
+		 /*
+		  * O método acima é compilado, pois,
+		  * está havendo um casting explícito 
+		  * CUIDADO! Casting explícito tem um certo perigo
+		  * pode dar erro na hora da execução
+		  * 
+		  * para garantir que não haverá erro de execução
+		  * caso faça referencia de uma classe errada
+		  * utilizar instanceof
+		  * 
+		  * */
+		 
+		  Cachorro e = new Cachorro();
+		  Gato g = new Gato();
 		
-		
-		
-		
-		
+		  falar(e);
+		  falar(g);
+		  
 		
 	}
 	
 	
+	private static void falar (Animal a) {
+		a.falar();
+	}
 	
 	
   
