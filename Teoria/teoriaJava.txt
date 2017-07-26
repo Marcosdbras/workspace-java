@@ -1,0 +1,16 @@
++ Classes abstratas
+  + São usadas quando não faz sentido instanciar uma classe
+    Não permite instanciar a classe em objeto
+    mantendo a consistência da classe
+    porém, pode ser feito referencia a classe abstrada
+
++ Método Abstratos
+  São métodos que temos certeza que não serão implentadas, portanto,
+  os métodos implementados sempre serão das classes que herdarão da classe principal
+
+  No diagrama UML a notação estará sempre na fonte itálica
+
++ Interface
+  Tem assinaturas de métodos dentro dela, porém, o comportamento dos métodos não são definidos
+
+  
