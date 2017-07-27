@@ -1,0 +1,21 @@
+
+public interface Automovel {
+  /*
+   * Primeiro crio a interface e as assinaturas dos métodos sempre como publica
+   * 
+   * Métodos não são implementados em interfaces, salvo exceção
+   * è definido assinatura e não implementemos
+   * as implementações são no método
+   * 
+   * Focamos o que faz a classe e não em como faz
+   *  
+   * */
+	
+	public void viraEsquerda();
+	public void viraDireita();
+	public void acelerar();
+	
+	
+	
+	
+}

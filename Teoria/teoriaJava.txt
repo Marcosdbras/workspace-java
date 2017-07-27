@@ -11,6 +11,10 @@
   No diagrama UML a notação estará sempre na fonte itálica
 
 + Interface
-  Tem assinaturas de métodos dentro dela, porém, o comportamento dos métodos não são definidos
+  Tem assinaturas de métodos dentro dela, via de regra, o comportamento dos métodos não são definidos nela e sim nos métodos, salvo exceções.
+  Tenho sempre assinaturas de metódos, não posso ter atributos, porém, posso ter constantes
+  Pode ser utilizado o polimorfismo
+  Quando a classe tiver de ser alterado a classe fica protegida
+
 
   

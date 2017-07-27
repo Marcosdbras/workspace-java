@@ -1,0 +1,65 @@
+Tratamento de imagem
+https://pixlr.com/editor/
+
+Github
+https://www.youtube.com/watch?v=aEGkYK6AVRg
+https://haylson.wordpress.com/2016/06/14/como-usar-o-git-e-o-github/
+https://www.linkedin.com/pulse/como-desfazer-o-comando-git-add-antes-de-efetuar-um-commit-alves
+
+Arduino digital
+https://www.tinkercad.com/#/?type=circuits&collection=designs
+https://www.tinkercad.com/things/9EhBR8SslUY-smooth-migelo/editel?tenant=circuits
+
+Aula com Arduino Duemilanove
+https://www.youtube.com/watch?v=S34PnG143sE&t=161s
+
+curso rápido
+https://www.youtube.com/watch?annotation_id=annotation_2888426745&feature=iv&src_vid=CMpxAOQmE54&v=zCkQRdnU4Jc
+https://www.youtube.com/watch?v=13jERj2_PIc&list=PLQ4bYmp0mquJMgHLfEmgMT_SrmfPAl6I7
+https://www.youtube.com/watch?v=xh0fMgWlJmk
+
+Arduino+Bluetooth+Android
+https://www.youtube.com/watch?v=ThSLuwlAPpg
+
+Aplicação de Android
+http://ai2.appinventor.mit.edu/
+
+App inventor + programação para Android
+https://www.youtube.com/watch?v=y0KNW133DY0
+https://www.youtube.com/watch?v=MirqbtNFBD8&list=PLGFfUAt_pphIVs7LXsFZlnTh_1zBgnvZ1
+https://www.youtube.com/watch?v=vUst8lwpWFs
+https://www.youtube.com/watch?v=gfOaMKVdj8I
+
+Placa com rele
+https://www.youtube.com/watch?v=KeSkgmj5w20
+
+
+
+App inventor para Java
+https://www.youtube.com/watch?v=FqNTc4DVYW8
+
+
+programação com arduino: Brincando com ideias.
+
+Arduino para Iniciante
+https://www.youtube.com/watch?v=AFqwLvlt4iU&list=PL7CjOZ3q8fMe6SX8XWYw85KruVXI64wA6
+
+
+Iniciando a programação Arduino curso completo: 
+https://www.youtube.com/watch?v=rCILKZPG0Kg&list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi
+https://www.youtube.com/watch?v=rCILKZPG0Kg&t=95s
+
+Microcontrolador:
+É um computador minusculo que é programado para sentir e controlar atividades através de sensores e atuadores. 
+Marcas e modelos: Atmel - ATmega328P : utilizado pelo Arduino UNO, Arduino promini, Arduino micro, Arduino Due
+
+Sensores:
+Ouvem tudo que ocorre no mundo físico, convertem energia do mundo físico em energia elétrica.
+Exemplo: Temperatura, luz, chamas, som, movimento, presença, teclado matricial, botão.
+
+Atuadores:
+Executam algo para o mundo físico, transforma a energia elétrica em algum outro tipo de energia.
+Exemplo: led, display, display matricial e cristal líquido, rele, motor de passo, servo motor, autofalante.
+
+
+Primeiro exemplo: sensor de capacitância
