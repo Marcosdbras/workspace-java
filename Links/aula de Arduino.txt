@@ -5,6 +5,7 @@ Github
 https://www.youtube.com/watch?v=aEGkYK6AVRg
 https://haylson.wordpress.com/2016/06/14/como-usar-o-git-e-o-github/
 https://www.linkedin.com/pulse/como-desfazer-o-comando-git-add-antes-de-efetuar-um-commit-alves
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 Arduino digital
 https://www.tinkercad.com/#/?type=circuits&collection=designs

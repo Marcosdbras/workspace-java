@@ -14,7 +14,23 @@ public class Aplicacao {
 		v.mostrarPreco(f);
 		v.mostrarPreco(a);
 		
+		Porsche p = new Porsche();
+		
+		/*
+		 * 
+		 * Código abaixo foi implementado na interface Automovel
+		 * 
+		 * */
+		f.derrapar();
+		p.derrapar();
+		
+		/*
+		 * Código abaixo chama um método estático dentro da interface Automovel
+		 * 
+		 * */
+		int vm = Automovel.getVelocidadeMaxima();
 
+		System.out.println("Velocidade Máxima: "+vm);
 	}
 
 }

@@ -35,6 +35,12 @@ public class Ferrari implements Carro, ItemCaro {
 		System.out.println("Ferrari acelerou");
 	}
 
+	@Override
+	public void frear() {
+		// TODO Auto-generated method stub
+		System.out.println("Ferrari freou");
+	}
+	
 	
 	/*
 	 *Vem da classe Carro 
@@ -57,5 +63,9 @@ public class Ferrari implements Carro, ItemCaro {
 		// TODO Auto-generated method stub
 		return 1000000;
 	}
+
+	
+
+	
   
 }
