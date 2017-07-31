@@ -16,5 +16,32 @@
   Pode ser utilizado o polimorfismo
   Quando a classe tiver de ser alterado a classe fica protegida
 
++ Exceções
+Devem direta ou indiretamente da classe Exception
+
+Existem 2 categorias de exceções 
+Checked Exception
+
+throws Exception > vai na assinatura do método
+throw new Exception() > Lança um obejeto de exceção
+
+
+Uncheched Exceptions, também chamadas de runtime exception, Hera de RuntimeException, Geralmente sem problemas que devem ser corrigidos no código, não precisa declarar throws na assinatura do método, não é necessário o tratamento da exceção
+
+
+Como tratar exceções que foram lançadas
+try...catch
+
+MultCatch
+
+
+
+
+
+
+
+
+
+
 
   
