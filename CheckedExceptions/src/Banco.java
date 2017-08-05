@@ -28,11 +28,19 @@ public class Banco {
 		} catch (ValorNegativoException e) {			
 			System.out.println("Você tentou sacar valor negativo de "+e.getValor() );
 			
+		}finally {
+			/*
+			 * Tudo que está no finally é executado sempre,
+			 *Independente das passagens pelo catch 
+			 * 
+			 * */
+			System.out.println("Seu saldo é "+c.getSaldo()); 	
+			
 		}
 		  
 		
 				
-		System.out.println("Seu saldo é "+c.getSaldo());
+		
 		
 		
 	}
