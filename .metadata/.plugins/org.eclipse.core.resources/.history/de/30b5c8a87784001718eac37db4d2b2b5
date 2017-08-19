@@ -1,0 +1,26 @@
+package br.util;
+
+import java.util.Scanner;
+
+public class ConsoleUtils {
+    /**
+     * readInt lê um número inteiro do console
+     * @return
+     */
+	public static int readInt() {
+		
+		
+		/**/ 
+		@SuppressWarnings("resource")
+		Scanner scanner = new Scanner(System.in);
+		
+		/**/
+		String str = scanner.nextLine();		
+		
+		/**/
+		return Integer.parseInt(str);
+		
+	}
+	
+	
+}

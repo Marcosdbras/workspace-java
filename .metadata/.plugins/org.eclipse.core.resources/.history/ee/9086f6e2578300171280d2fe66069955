@@ -1,0 +1,24 @@
+
+public class Aplicacao {
+
+	/*Tipo primitivos: double, int, float
+	 *Tipos não primitivos: Classes, Interfaces, Enums 
+	 * */
+	
+	
+	public static void main(String[] args) {
+		
+		/*Neste caso estou embrulhando um valor int dentro de um objeto*/
+		Integer i1 = new Integer(20);
+
+		imprimir(i1);
+		
+	}
+	
+	private static void imprimir(Object obj) {
+		
+		System.out.println(obj);
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+import java.text.NumberFormat;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		double d = 145.d;
+		
+		NumberFormat nf1 = NumberFormat.getNumberInstance();
+		String s1 = nf1.format(d);
+		System.out.println("Formatação padrão Brasileiro "+s1);
+		
+		}
+
+}

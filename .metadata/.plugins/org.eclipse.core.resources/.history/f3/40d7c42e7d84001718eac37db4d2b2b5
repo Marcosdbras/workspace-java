@@ -1,0 +1,12 @@
+import br.util.RandomUtils;
+
+public class SorteSua {
+
+	public static void main(String[] args) {
+		
+		int number = RandomUtils.nextInt(0, 50);
+		
+
+	}
+
+}

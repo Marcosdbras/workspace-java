@@ -1,0 +1,44 @@
+import java.util.Random;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+	  
+	/*Primeira opção para gerar números aleatórios*/	
+	for (int i = 0; i < 10; i++) {
+		  
+		  double d = Math.random();
+		  
+		  System.out.println((i + 1) + " => " +d);
+		  
+		  
+		  
+	  }	
+	  
+	  /*Segunda opção para gerar números aleatórios*/
+	  Random r = new Random();
+	  
+	  for (int i = 0;i < 10;i++) {
+		  
+		  
+		  int dd = r.nextInt();
+		  
+		  System.out.println((i + 1)+" => "+dd);
+		  
+	  }
+	  
+	  
+	  /*Terceira Opção para gerar números randomicos
+	   *Neste caso gera número de 0 a 99 
+	   * */
+	  for (int i = 0;i < 10;i++) {
+		  
+		  int ddd = r.nextInt(100);
+		  
+		  System.out.println((i + 1)+" => "+ddd);
+		  
+	  }
+
+	}
+
+}

@@ -1,0 +1,13 @@
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		/*
+		 * Autoboxing funciona automáticamente do java 1.8 para cima
+		 * 
+		 * 
+		 * */
+
+	}
+
+}

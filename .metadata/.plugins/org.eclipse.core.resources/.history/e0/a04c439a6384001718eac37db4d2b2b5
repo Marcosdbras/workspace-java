@@ -1,0 +1,21 @@
+
+public class Aplicacao {
+/**
+ * Para incluir JAR externo
+ * 
+ * 1) clique inverso no projeto
+ * 2) clique em propriedade
+ * 3) clique em java build path
+ * 4) clique na aba project
+ * 5) adiciona o projeto 
+ * 
+ * 
+ * @param args
+ */
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

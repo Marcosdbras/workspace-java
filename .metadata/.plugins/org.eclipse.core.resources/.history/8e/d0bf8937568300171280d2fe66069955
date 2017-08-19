@@ -1,0 +1,27 @@
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		DiaDaSemana hoje;
+		
+		hoje = DiaDaSemana.SEXTA;
+		
+		
+		int num = DiaDaSemana.QUARTA.getnum();
+
+		
+		System.out.println(num);
+		
+		
+		/*Atenção a string tem que conter exatamente o valor que está declarada na classe enum, caso contrário ocorrerá uma exceção*/
+		String s = "TERÇA";
+		
+		DiaDaSemana d = DiaDaSemana.valueOf(s);
+		
+		System.out.println(d.getnum());
+		
+		
+	}
+
+}

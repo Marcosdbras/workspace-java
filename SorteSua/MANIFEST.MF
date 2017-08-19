@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: utilitarios.jar
+Main-Class: br.sortesua.aplicativo.SorteSua

@@ -1,0 +1,23 @@
+import java.text.NumberFormat;
+import java.util.Locale;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		double d = 1145.4;
+		
+		
+		/*Formatação de número no padrão Brasileiro*/
+		NumberFormat nf1 = NumberFormat.getNumberInstance();
+		String s1 = nf1.format(d);
+		System.out.println("Formatação padrão Brasileiro "+s1);
+		
+		/*Foprmatação de número padrão norte americano*/
+		NumberFormat nf2 = NumberFormat.getNumberInstance(new Locale("en","US") );
+		String s2 = nf2.format(d);
+		System.out.println("Formatação padrão Norte Americano "+s2);
+		
+		}
+
+}

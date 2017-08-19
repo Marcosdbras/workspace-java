@@ -1,0 +1,38 @@
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		/*
+		 * Autoboxing funciona automáticamente do java 1.8 para cima
+		 * 
+		 * 
+		 * */
+		Handler h = new Handler();
+		h.setObj("abc");
+		String s = (String) h.getObj();
+		System.out.println(s);
+		
+		
+		/*Implementação antes do java 1.8*/
+		Handler h1 = new Handler();
+		h1.setObj(new Integer(10));
+		Integer s1 = (Integer) h.getObj();
+		int v1 = s1.intValue();
+		System.out.println(v1);
+		
+		
+		Handler h2 = new Handler();
+		h2.setObj(10);
+		int v2 = (int) h2.getObj();
+		System.out.println(v2);
+		
+		
+		
+		
+		
+
+
+
+	}
+
+}

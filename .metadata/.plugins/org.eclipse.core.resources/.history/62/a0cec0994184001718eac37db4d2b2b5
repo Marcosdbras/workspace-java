@@ -1,0 +1,15 @@
+package br.java.app.nivel2;
+
+public class A {
+  
+	
+  /*Este metodo somente é visível para o pacote, 
+   *pois não tem o modificador public
+   * 
+   * */	
+  void m1() {
+	  
+  }
+  
+  
+}
