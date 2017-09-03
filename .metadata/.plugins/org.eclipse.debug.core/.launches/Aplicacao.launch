@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<<<<<<< HEAD
-<listEntry value="/sobrecarga/src/sobrecarga/aplicacao.java"/>
-=======
-<listEntry value="/meuPrimeiroProjeto/src/meuPrimeiroProjeto/Aplicacao.java"/>
->>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
+<listEntry value="/Listas/src/Aplicacao.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<<<<<<< HEAD
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sobrecarga.aplicacao"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="sobrecarga"/>
-=======
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="meuPrimeiroProjeto.Aplicacao"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="meuPrimeiroProjeto"/>
->>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Aplicacao"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Listas"/>
 </launchConfiguration>

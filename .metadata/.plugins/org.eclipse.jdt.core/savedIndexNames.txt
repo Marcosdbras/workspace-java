@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 INDEX VERSION 1.130+C:\Users\marco\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
 1013532035.index
 2876977879.index
@@ -17,8 +16,9 @@ INDEX VERSION 1.130+C:\Users\marco\eclipse-workspace\.metadata\.plugins\org.ecli
 3666609613.index
 2272273464.index
 2709225165.index
-3141958188.index
+171521544.index
 591889177.index
+3141958188.index
 1484906476.index
 148409970.index
 2715468703.index
@@ -32,41 +32,3 @@ INDEX VERSION 1.130+C:\Users\marco\eclipse-workspace\.metadata\.plugins\org.ecli
 3620471903.index
 754187175.index
 1477788888.index
-=======
-INDEX VERSION 1.130+/home/marcosbras/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-1156675174.index
-124317962.index
-4263090515.index
-1203232414.index
-1082856636.index
-1969719944.index
-1915922203.index
-1922362864.index
-3619290302.index
-1422718697.index
-443540219.index
-3449226917.index
-3000651287.index
-2838940809.index
-2000558364.index
-1427977831.index
-2353627191.index
-3788972270.index
-3086013669.index
-677079260.index
-2752753961.index
-3105265902.index
-885671342.index
-2245658862.index
-2207185883.index
-1565601941.index
-3538075332.index
-2558667370.index
-136828839.index
-2023490154.index
-4178411271.index
-4166474877.index
-80537675.index
-468280024.index
-3361399588.index
->>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
