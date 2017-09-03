@@ -1,0 +1,37 @@
+
+public abstract class Item {
+  private int posX;
+  private int posY;
+  
+  /*
+   * Toda classe abstrata não pode ser estanciado
+   * Todo método abstrado não pode ser implemento, só tem assinatura
+   * Você não pode ter metodos abstratos em classes não abstratas
+   * porém, vc pode ter métodos não abstratos numa classe não abstratas
+   * exemplos de getters e setter numa classe abstrata
+   * 
+   * */
+  
+//Assinatura da classe
+public abstract void pegar();
+
+  
+public int getPosX() {
+	return posX;
+}
+
+public void setPosX(int posX) {
+	this.posX = posX;
+}
+
+public int getPosY() {
+	return posY;
+}
+
+public void setPosY(int posY) {
+	this.posY = posY;
+} 
+  
+  
+  
+}

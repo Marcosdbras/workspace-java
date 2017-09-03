@@ -1,0 +1,10 @@
+
+public class Preparador {
+  
+  public void PrepararBebida(Bebida bebida) {
+	  System.out.println("Preparando a bebida "+bebida.getNome());
+      bebida.preparar();
+      
+      
+  }
+}

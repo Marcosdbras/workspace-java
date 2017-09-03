@@ -1,0 +1,19 @@
+
+public class Maca extends Item {
+    
+	/*
+	 * Se estiver extendendo de uma classe abstrata, como é o caso da classe Item, 
+	 * obrigatóriamente, tenho que implementar todos os métodos abstratos da classe abstrada "Item"
+	 * 
+	 * */
+	
+	
+	
+	
+	@Override
+	public void pegar() {
+		// TODO Auto-generated method stub
+        
+	}
+
+}

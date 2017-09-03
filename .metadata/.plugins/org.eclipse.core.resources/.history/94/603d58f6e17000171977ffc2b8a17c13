@@ -1,0 +1,19 @@
+
+public class Aplicacao {
+ 
+	public static void main(String[] args) {
+		
+		Cachorro c = new Cachorro();
+		c.falar();
+		
+		Animal a = new Cachorro();
+		a.falar(); 
+		
+		
+	}
+	
+	
+	
+	
+  
+}

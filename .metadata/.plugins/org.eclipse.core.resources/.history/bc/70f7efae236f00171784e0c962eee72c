@@ -1,0 +1,16 @@
+
+public class Veiculo {
+  private String marca;
+  private String modelo;
+  private int ano;
+  
+  public void buzinar() {
+	  System.out.println("BI BI");
+  }
+  
+  public void imprimirDados() {
+	  System.out.println("Marca => "+ano);
+	  System.out.println("Modelo => "+modelo);
+	  System.out.println("Ano => "+ano);
+  }
+}

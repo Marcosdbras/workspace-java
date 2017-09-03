@@ -1,0 +1,35 @@
+
+public class Retangulo {
+	  
+	  //Atributos: São as propriedades da classe
+	  private  double largura;
+	  private double altura;
+	  
+	  //Construtor: Terá o mesmo nome da classe com diferentes parâmetros
+	  public Retangulo() {
+		  largura = 4;
+		  altura = 3;
+	  }
+	  
+	  //Aqui houve sobregarca de método
+	  public Retangulo(double largura, double altura) {
+		  
+		  this.largura = largura;
+		  this.altura = altura;
+		  
+	  }
+	  
+	  
+	  //Método: São as ações que a classe realiza 
+	  public double calculaArea(){
+		   
+		  return largura * altura;
+		  
+	  }
+	  
+	  void calculaPerimetro() {
+		  
+	  }
+	  
+	  
+}

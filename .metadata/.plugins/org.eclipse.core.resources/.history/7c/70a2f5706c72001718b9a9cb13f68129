@@ -1,0 +1,17 @@
+
+public interface Automovel {
+  /*
+   * Métodos não são implementados em interfaces, salvo exceção
+   * è definido assinatura e não implementemos
+   * as implementações são no método
+   *  
+   * */
+	
+	public void viraEsquerda();
+	public void viraDireita();
+	public void acelerar();
+	
+	
+	
+	
+}

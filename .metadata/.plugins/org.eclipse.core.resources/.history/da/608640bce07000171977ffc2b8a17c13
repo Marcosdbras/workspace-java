@@ -1,0 +1,5 @@
+
+public class Aplicacao {
+  Cachorro c = new Cachorro();
+  c.falar();
+}

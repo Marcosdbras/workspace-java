@@ -1,0 +1,64 @@
+
+public class Retangulo {
+	  
+	  //Atributos: São as propriedades da classe
+	  private  double largura;
+	  private double altura;
+	  private double profundidade;
+	  
+	  //Construtor: Terá o mesmo nome da classe com diferentes parâmetros
+	  public Retangulo() {
+		  
+		  largura = 4;
+		  altura = 3;
+		  profundidade = 5;
+		  
+	  }
+	  
+	  //Aqui houve sobrecarga de método
+	  public Retangulo(double largura, double altura) {
+		  
+		  this.largura = largura;
+		  this.altura = altura;
+		  this.profundidade = 1;
+		  
+	  }
+	  
+	  //Construtor A1
+	  public Retangulo(double largura, double altura, double profundidade) {
+		 
+		  this.largura = largura;
+		  this.altura = altura;
+		  this.profundidade = profundidade; 
+		  
+	  }
+	  
+	  public Retangulo(char tipo) {
+		  
+		  //Chamada do construtor A1
+		  this(4,5);
+		 
+		  
+		  if (tipo == 1) {
+			//chamada do construtor não é aceito dentro aqui dentro 
+		  }else {
+			  
+		  }
+		  
+		  
+	  }
+	  
+	  
+	  //Método: São as ações que a classe realiza 
+	  public double calculaArea(){
+		   
+		  return largura * altura * profundidade;
+		  
+	  }
+	  
+	  void calculaPerimetro() {
+		  
+	  }
+	  
+	  
+}

@@ -1,0 +1,20 @@
+
+public class Contator {
+  private static int valor;
+
+public Contator() {
+	valor = 1;
+}
+
+public void incrementar() {
+	valor++;
+}
+
+public int getValor() {
+	return valor;
+}
+
+
+  
+  
+}

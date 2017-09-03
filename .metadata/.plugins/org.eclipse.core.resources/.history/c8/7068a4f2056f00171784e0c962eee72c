@@ -1,0 +1,17 @@
+
+public class ContadorStatic {
+  private static int valor;
+  
+  public void incrementar(){
+	  valor++;
+  }
+
+public static int getValor() {
+	return valor;
+}
+
+
+  
+  
+  
+}

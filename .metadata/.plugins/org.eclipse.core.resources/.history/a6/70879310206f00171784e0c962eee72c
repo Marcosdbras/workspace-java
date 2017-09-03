@@ -1,0 +1,23 @@
+
+public class Constantes {
+  
+  //Definição do valor da constante de forma definitiva 
+  public static final double MEDIA_GERAL = 7.5;	
+ 
+  //Definição de variável
+  public static final double MEDIA_DA_PROVA;
+  public static final double TOTAL;
+  
+  //Defnição de variável local
+  private static double total = 7;
+  
+  static{
+
+	  //Atribuição uma única vez 
+	  MEDIA_DA_PROVA = 7.0;
+	  
+	  //Constante     Variavel
+	  TOTAL       =   total;
+	  
+  }
+}

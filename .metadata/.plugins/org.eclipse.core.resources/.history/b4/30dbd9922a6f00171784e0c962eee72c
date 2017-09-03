@@ -1,0 +1,16 @@
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Veiculo v = new Veiculo();
+		v.setAno(2000);
+		v.setModelo("Brasilia");
+		v.setMarca("VW");
+		
+		v.imprimirDados();
+		v.buzinar();
+
+	}
+
+}

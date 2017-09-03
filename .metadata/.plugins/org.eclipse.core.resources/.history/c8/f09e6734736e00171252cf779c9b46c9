@@ -1,0 +1,33 @@
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Estatico pertence a classe e não ao objeto da classe, portanto, não precisa instanciar
+		Matematica.somar(2, 5);
+		Matematica.subtrair(5, 3);
+		
+		
+		
+		Matematica m = new Matematica();
+		double div = m.divisao(10, 5);
+		double mult = m.mult(50, 10);
+		
+		
+		Contador c1 = new Contador();
+		
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
