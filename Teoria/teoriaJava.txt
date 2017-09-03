@@ -1,20 +1,134 @@
+﻿áreas de memoria
+
+Na memória hip ficam armazenados dos os objetos estanciados na aplicação
+
+Stack ficam armazenadas variaveil locais, parametros de métodos
+
+
 + Classes abstratas
-  + S�o usadas quando n�o faz sentido instanciar uma classe
-    N�o permite instanciar a classe em objeto
-    mantendo a consist�ncia da classe
-    por�m, pode ser feito referencia a classe abstrada
+  + São usadas quando não faz sentido instanciar uma classe
+    Não permite instanciar a classe em objeto
+    mantendo a consistência da classe
+    porém, pode ser feito referencia a classe abstrada
 
-+ M�todo Abstratos
-  S�o m�todos que temos certeza que n�o ser�o implentadas, portanto,
-  os m�todos implementados sempre ser�o das classes que herdar�o da classe principal
++ Método Abstratos
+  São métodos que temos certeza que não serão implentadas, portanto,
+  os métodos implementados sempre serão das classes que herdarão da classe principal
 
-  No diagrama UML a nota��o estar� sempre na fonte it�lica
+  No diagrama UML a notação estará sempre na fonte itálica
 
 + Interface
-  Tem assinaturas de m�todos dentro dela, via de regra, o comportamento dos m�todos n�o s�o definidos nela e sim nos m�todos, salvo exce��es.
-  Tenho sempre assinaturas de met�dos, n�o posso ter atributos, por�m, posso ter constantes
+  Tem assinaturas de métodos dentro dela, via de regra, o comportamento dos métodos não são definidos nela e sim nos métodos, salvo exceções.
+  Tenho sempre assinaturas de metódos, não posso ter atributos, porém, posso ter constantes
   Pode ser utilizado o polimorfismo
   Quando a classe tiver de ser alterado a classe fica protegida
+
++ Exceções
+Devem direta ou indiretamente da classe Exception
+
+Existem 2 categorias de exceções 
+Checked Exception
+
+throws Exception > vai na assinatura do método
+throw new Exception() > Lança um obejeto de exceção
+
+
+Uncheched Exceptions, também chamadas de runtime exception, Hera de RuntimeException, Geralmente sem problemas que devem ser corrigidos no código, não precisa declarar throws na assinatura do método, não é necessário o tratamento da exceção
+
+
+Como tratar exceções que foram lançadas
+try...catch
+
+MultCatch
+
+String
+Armazena um conjunto de caractares
+Não são tipo de dados primitido
+
+
+String 
+
+
+
+String s1 = new String("abc"); 
+String s2 = new String("abc");
+
+s1 = s2
+
+nesta caso s2 vai apontar pra mesma área de s1 e o q estava na s2 deixará de existir, pois perde a referencia da stack com a heap
+
+
+
+s1 está armazenado na stack
+string "abc" é criado no heap
+
+objeto está na heap 
+
+String s1 = "abc"
+é criado uma referencia de  pool de string da stack para heap 
+
+String s2 = "abc"
+Nesta caso relação pra mesma aŕea do heap onde está "abc"
+
+se mudar a de "abc para "abcd" s1 e s2 seriam alterados
+
+Depois de criada, uma string nunca tem seu valor alterado
+
+exemplo
+String s = "abc";
+s.toUpperCase();
+
+no caso acima s não será modificada para maiúsculo
+
+então, pra realizar a modificação tem que ser da seguinte forma
+String s = "abc";
+s = s.toUpperCase();
+
+String s = "abc";
+s.concat("def");
+
+não vai alterar s 
+então para altera o valor de s
+o código tem que ser da seguinte forma:
+
+String s = "abc";
+s = s.concat("def");
+
+Para comparar string de utilizar o método equals
+
+if (s1.equals(s2)){}
+
+Verifica no javadoc os métodos das strings
+
+Também existe 
+
+StringBuilder
+
+utiliza menos memória caso tenha que fazer diversas operações com a mesma string.
+
+enum
+lista de elementos pré definido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

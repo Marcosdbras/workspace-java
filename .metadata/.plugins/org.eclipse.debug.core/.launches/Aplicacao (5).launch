@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<<<<<<< HEAD
 <listEntry value="/HerancaConstrutor/src/Aplicacao.java"/>
+=======
+<listEntry value="/ErrosComuns/src/Aplicacao.java"/>
+>>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Aplicacao"/>
+<<<<<<< HEAD
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="HerancaConstrutor"/>
+=======
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ErrosComuns"/>
+>>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
 </launchConfiguration>
