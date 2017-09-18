@@ -135,4 +135,7 @@ thread: são linhas de execução dentro dos processos, logo, podemos concluir q
 
 
 
+
+
+
   

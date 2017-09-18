@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
 		<item value="/home/marcosbras/eclipse-workspace/programTestEstrutural"/>
 		<item value="/home/marcosbras/eclipse-workspace/Interface"/>
 		<item value="/home/marcosbras/eclipse-workspace/frenteCaixa"/>
@@ -26,4 +27,8 @@
 		<item value="-91" key="DIALOG_X_ORIGIN"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
+=======
+		<item value="C:\Users\marco\eclipse-workspace\Listas"/>
+	</list>
+>>>>>>> 029b49c54cb85cc32cd944a2b427dd9a60a461af
 </section>

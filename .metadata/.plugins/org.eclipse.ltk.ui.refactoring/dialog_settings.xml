@@ -6,4 +6,12 @@
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 	</section>
+<<<<<<< HEAD
+	<section name="RefactoringStatusDialog">
+		<item value="816" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="490" key="DIALOG_HEIGHT"/>
+	</section>
+=======
+>>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
 </section>

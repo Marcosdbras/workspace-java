@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Contator&apos; to &apos;Contador&apos;&#x0D;&#x0A;- Original project: &apos;Static&apos;&#x0D;&#x0A;- Original element: &apos;Contator&apos;&#x0D;&#x0A;- Renamed element: &apos;Contador&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Contator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Contator.java[Contator" matchStrategy="1" name="Contador" qualified="false" references="true" similarDeclarations="false" stamp="1500682541820" textual="false" version="1.0"/>
+</session>
