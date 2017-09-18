@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/marcosbras/eclipse-workspace/programTestEstrutural"/>
+		<item value="/home/marcosbras/eclipse-workspace/Interface"/>
+		<item value="/home/marcosbras/eclipse-workspace/frenteCaixa"/>
+		<item value="/home/marcosbras/eclipse-workspace/ClassesAbstratas"/>
 		<item value="/home/marcosbras/eclipse-workspace/Modificadores_ContaCorrente/src"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
@@ -14,5 +18,12 @@
 	<section name="ChooseWorkspaceDialogSettings">
 		<item value="168" key="DIALOG_X_ORIGIN"/>
 		<item value="162" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="613" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="599" key="DIALOG_HEIGHT"/>
+		<item value="-91" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

@@ -109,6 +109,10 @@ utiliza menos memória caso tenha que fazer diversas operações com a mesma str
 enum
 lista de elementos pré definido
 
+thread: são linhas de execução dentro dos processos, logo, podemos concluir que teremos diversas threads dentro de processo se tornando assim um processo mult-thread.
+
+
+
 
 
 
