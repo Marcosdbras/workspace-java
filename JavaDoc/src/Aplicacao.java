@@ -9,7 +9,7 @@
 public class Aplicacao {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		Contato c = new Contato("José","email@dominio.com.br");
 		

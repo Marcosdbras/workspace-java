@@ -2,7 +2,7 @@
 public class Aplicacao {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 	
 	/*
 	 * Com GenericoException não consegue mostrar a mensagem original
@@ -13,7 +13,7 @@ public class Aplicacao {
 	 try {
 		c.salvar();
 	} catch (GenericoException e) {
-		// TODO Auto-generated catch block
+		
 		System.out.println("Erro: "+e.getMessage());
 	}
 	}

@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-GitRepositoriesView.GitDirectories=C\:\\Users\\marco\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\marco\\.git;
-=======
-GitRepositoriesView.GitDirectories=/home/marcosbras/eclipse-workspace/.git\:
-GitRepositoriesView.GitDirectories.relative=.git\:
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=86fd99066b995a0059492c0cf20cb70740112ce1
+GitRepositoriesView.GitDirectories=/home/marcosbras/eclipse-workspace/.git\:/home/marcosbras/ProjetoJava/Nfe310/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:/home/marcosbras/ProjetoJava/Nfe310/.git\:
 RepositorySearchDialogSearchPath=/home/marcosbras/eclipse-workspace
->>>>>>> 86fd99066b995a0059492c0cf20cb70740112ce1
 eclipse.preferences.version=1

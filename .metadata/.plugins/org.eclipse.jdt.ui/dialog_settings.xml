@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-<<<<<<< HEAD
+	<item value="filter_imports;" key="filters_last_used"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="false" key="OmitCallToSuper"/>
+	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1499089681077&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1505743828378&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
 		<item value="1" key="rootMode"/>
 		<item value="false" key="linkWithEditor"/>
 	</section>
@@ -12,256 +17,23 @@
 		<item value="644" key="DIALOG_WIDTH"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 		<item value="744" key="DIALOG_HEIGHT"/>
-		<item value="-134" key="DIALOG_X_ORIGIN"/>
-		<item value="-6" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="SourceActionDialog.constructors">
-		<item value="false" key="SynchronizedModifier"/>
-		<item value="false" key="Comments"/>
-		<item value="1" key="VisibilityModifier"/>
-		<item value="false" key="FinalModifier"/>
-	</section>
-	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
-		<item value="true" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE"/>
-		<item value="402" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH"/>
-		<item value="337" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT"/>
-		<item value="false" key="GoIntoTopLevelTypeAction.isChecked"/>
-		<item value="false" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
-	</section>
-	<section name="javadoc">
-		<item value="private" key="access"/>
-		<item value="false" key="noindex"/>
-		<item value="/home/marcosbras/eclipse-workspace/ProjetoUtil/javadoc.xml" key="antpath"/>
-		<item value="false" key="nodeprecatedlist"/>
-		<item value="true" key="use"/>
-		<item value="true" key="author"/>
-		<item value="false" key="nodeprecated"/>
-		<item value="false" key="nonavbar"/>
-		<item value="" key="docletpath"/>
-		<item value="/usr/lib/jvm/java-8-oracle/bin/javadoc" key="javadoc_command_history"/>
-		<item value="1.8" key="source"/>
-		<item value="true" key="version"/>
-		<item value="" key="docletname"/>
-		<item value="true" key="splitindex"/>
-		<item value="true" key="fromStandard"/>
-		<item value="false" key="notree"/>
-		<item value="/home/marcosbras/eclipse-workspace/ProjetoUtil/doc" key="destdir"/>
-		<item value="false" key="openinbrowser"/>
-		<section name="projects">
-			<section name="pacotes">
-				<item value="/home/marcosbras/eclipse-workspace/pacotes/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/pacotes/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="JavaTime">
-				<item value="/home/marcosbras/eclipse-workspace/JavaTime/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/JavaTime/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="ProjetoUtil">
-				<item value="/home/marcosbras/eclipse-workspace/ProjetoUtil/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/ProjetoUtil/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="StringBuilder">
-				<item value="/home/marcosbras/eclipse-workspace/StringBuilder/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/StringBuilder/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Stacktrace">
-				<item value="/home/marcosbras/eclipse-workspace/Stacktrace/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Stacktrace/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="ErrosComuns">
-				<item value="/home/marcosbras/eclipse-workspace/ErrosComuns/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/ErrosComuns/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="JavaDoc">
-				<item value="/home/marcosbras/eclipse-workspace/JavaDoc/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/JavaDoc/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Data">
-				<item value="/home/marcosbras/eclipse-workspace/Data/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Data/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="String">
-				<item value="/home/marcosbras/eclipse-workspace/String/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/String/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Numeros">
-				<item value="/home/marcosbras/eclipse-workspace/Numeros/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Numeros/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Projeto">
-				<item value="/home/marcosbras/eclipse-workspace/Projeto/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Projeto/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Assertions">
-				<item value="/home/marcosbras/eclipse-workspace/Assertions/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Assertions/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="CheckedExceptionsGenerico">
-				<item value="/home/marcosbras/eclipse-workspace/CheckedExceptionsGenerico/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/CheckedExceptionsGenerico/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Enums">
-				<item value="/home/marcosbras/eclipse-workspace/Enums/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Enums/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="CheckedExceptions">
-				<item value="/home/marcosbras/eclipse-workspace/CheckedExceptions/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/CheckedExceptions/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="ClassesWrappers">
-				<item value="/home/marcosbras/eclipse-workspace/ClassesWrappers/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/ClassesWrappers/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Random">
-				<item value="/home/marcosbras/eclipse-workspace/Random/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/Random/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="ImportsEstaticos">
-				<item value="/home/marcosbras/eclipse-workspace/ImportsEstaticos/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/ImportsEstaticos/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="UnCheckedException">
-				<item value="/home/marcosbras/eclipse-workspace/UnCheckedException/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/UnCheckedException/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="AutoBoxing">
-				<item value="/home/marcosbras/eclipse-workspace/AutoBoxing/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/AutoBoxing/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="meuPrimeiroProjeto">
-				<item value="/home/marcosbras/eclipse-workspace/meuPrimeiroProjeto/javadoc.xml" key="antpath"/>
-				<item value="/home/marcosbras/eclipse-workspace/meuPrimeiroProjeto/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-		</section>
-	</section>
-	<section name="FatJarPackageWizard">
-		<item value="/home/marcosbras/eclipse-workspace" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
-		<item value="SorteSua (1) - SorteSua" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
-		<item value="/home/marcosbras/eclipse-workspace/app/SorteSua.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
-		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
-		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
-		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
-			<item value="/home/marcosbras/eclipse-workspace/app/SorteSua.jar"/>
-			<item value="/home/marcosbras/eclipse-workspace/app/aplicativo.jar"/>
-		</list>
-		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
-			<item value="/home/marcosbras/eclipse-workspace.xml"/>
-			<item value=".xml"/>
-		</list>
-	</section>
-	<section name="OverrideMethodDialog">
-		<item value="true" key="showtypes"/>
-	</section>
-	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
-		<item value="644" key="DIALOG_WIDTH"/>
-		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
-		<item value="694" key="DIALOG_HEIGHT"/>
-		<item value="-96" key="DIALOG_X_ORIGIN"/>
-		<item value="0" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="completion_proposal_size">
-		<item value="196" key="size.y"/>
-		<item value="339" key="size.x"/>
-	</section>
-	<section name="AddGetterSetterDialog">
-		<item value="false" key="SortOrdering"/>
-		<item value="false" key="RemoveFinal"/>
-	</section>
-	<section name="JarPackageWizard">
-		<item value="false" key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES"/>
-		<item value="/SorteSua/MANIFEST.MF" key="JarManifestWizardPage.MANIFEST_LOCATION"/>
-		<item value="false" key="JarManifestWizardPage.SEAL_JAR"/>
-		<item value="true" key="JarPackageWizardPage.COMPRESS"/>
-		<item value="false" key="JarManifestWizardPage.REUSE_MANIFEST"/>
-		<item value="false" key="jarOptionsWizardPage.STORE_USE_SRC_FOLDERS"/>
-		<item value="true" key="jarOptionsWizardPage.EXPORT_WARNINGS"/>
-		<item value="" key="jarOptionsWizardPage.DESCRIPTION_LOCATION"/>
-		<item value="true" key="jarOptionsWizardPage.BUILD_IF_NEEDED"/>
-		<item value="false" key="JarPackageWizardPage.EXPORT_JAVA_FILES"/>
-		<item value="true" key="jarOptionsWizardPage.EXPORT_ERRORS"/>
-		<item value="false" key="JarManifestWizardPage.GENERATE_MANIFEST"/>
-		<item value="true" key="JarPackageWizardPage.EXPORT_CLASS_FILES"/>
-		<item value="false" key="JarPackageWizardPage.OVERWRITE"/>
-		<item value="false" key="jarOptionsWizardPage.SAVE_DESCRIPTION"/>
-		<item value="false" key="JarPackageWizardPage.REFACTORINGS"/>
-		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
-		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
-		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
-			<item value="/home/marcosbras/eclipse-workspace/app/SorteSua.jar"/>
-			<item value="/home/marcosbras/eclipse-workspace/JAR/Util/utilitarios.jar"/>
-		</list>
-	</section>
-	<section name="JavaElementSearchActions">
-	</section>
-=======
->>>>>>> 029b49c54cb85cc32cd944a2b427dd9a60a461af
-	<section name="org.eclipse.ltk.ui.refactoring.settings">
-		<item value="false" key="renameSubpackages"/>
-		<item value="false" key="updateQualifiedNames"/>
-		<item value="*" key="patterns"/>
-		<item value="false" key="updateSimilarElements"/>
-		<item value="false" key="updateTextualMatches"/>
-		<item value="1" key="updateSimilarElementsMatchStrategy"/>
-	</section>
-	<section name="GenerateConstructorUsingFieldsSelectionDialog">
-		<item value="false" key="OmitCallToSuper"/>
-	</section>
-	<section name="DialogBounds_SuperInterfaceSelectionDialog">
-		<item value="373" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-		<item value="549" key="DIALOG_HEIGHT"/>
-		<item value="87" key="DIALOG_X_ORIGIN"/>
-		<item value="-108" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
-		<item value="2" key="layout"/>
-		<item value="true" key="group_libraries"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1500397486356&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
-		<item value="1" key="rootMode"/>
-		<item value="false" key="linkWithEditor"/>
-	</section>
-	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
-		<item value="519" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-		<item value="678" key="DIALOG_HEIGHT"/>
-		<item value="275" key="DIALOG_X_ORIGIN"/>
-		<item value="62" key="DIALOG_Y_ORIGIN"/>
+		<item value="-160" key="DIALOG_X_ORIGIN"/>
+		<item value="-8" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;" key="History"/>
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
-			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 			<item value="500" key="DIALOG_HEIGHT"/>
-			<item value="-29" key="DIALOG_X_ORIGIN"/>
-			<item value="-14" key="DIALOG_Y_ORIGIN"/>
+			<item value="25" key="DIALOG_X_ORIGIN"/>
+			<item value="24" key="DIALOG_Y_ORIGIN"/>
 		</section>
 	</section>
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
-		<item value="true" key="create_unimplemented"/>
+		<item value="false" key="create_unimplemented"/>
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
@@ -273,46 +45,51 @@
 		<item value="false" key="FinalModifier"/>
 	</section>
 	<section name="DialogBounds_OverrideMethodDialog">
-		<item value="526" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-		<item value="467" key="DIALOG_HEIGHT"/>
-		<item value="185" key="DIALOG_X_ORIGIN"/>
-		<item value="203" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item value="528" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-		<item value="696" key="DIALOG_HEIGHT"/>
-		<item value="270" key="DIALOG_X_ORIGIN"/>
+		<item value="651" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="521" key="DIALOG_HEIGHT"/>
+		<item value="-165" key="DIALOG_X_ORIGIN"/>
 		<item value="50" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
-		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
-	</section>
-	<section name="RefactoringWizard.preview">
-		<item value="600" key="width"/>
-		<item value="400" key="height"/>
 	</section>
 	<section name="SourceActionDialog.methods">
 		<item value="false" key="SynchronizedModifier"/>
 		<item value="false" key="Comments"/>
-		<item value="1" key="VisibilityModifier"/>
 		<item value="false" key="FinalModifier"/>
 	</section>
 	<section name="OverrideMethodDialog">
 		<item value="true" key="showtypes"/>
 	</section>
+	<section name="RenameInformationPopup">
+	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
-	<section name="NewPackageWizardPage">
-		<item value="false" key="create_package_info_java"/>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>
-	<section name="AddGetterSetterDialog">
-		<item value="false" key="SortOrdering"/>
-		<item value="false" key="RemoveFinal"/>
+	<section name="JarPackageWizard">
+		<item value="false" key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES"/>
+		<item value="" key="JarManifestWizardPage.MANIFEST_LOCATION"/>
+		<item value="false" key="JarManifestWizardPage.SEAL_JAR"/>
+		<item value="true" key="JarPackageWizardPage.COMPRESS"/>
+		<item value="false" key="JarManifestWizardPage.REUSE_MANIFEST"/>
+		<item value="false" key="jarOptionsWizardPage.STORE_USE_SRC_FOLDERS"/>
+		<item value="true" key="jarOptionsWizardPage.EXPORT_WARNINGS"/>
+		<item value="" key="jarOptionsWizardPage.DESCRIPTION_LOCATION"/>
+		<item value="true" key="jarOptionsWizardPage.BUILD_IF_NEEDED"/>
+		<item value="false" key="JarPackageWizardPage.EXPORT_JAVA_FILES"/>
+		<item value="true" key="jarOptionsWizardPage.EXPORT_ERRORS"/>
+		<item value="true" key="JarManifestWizardPage.GENERATE_MANIFEST"/>
+		<item value="true" key="JarPackageWizardPage.EXPORT_CLASS_FILES"/>
+		<item value="false" key="JarPackageWizardPage.OVERWRITE"/>
+		<item value="false" key="jarOptionsWizardPage.SAVE_DESCRIPTION"/>
+		<item value="false" key="JarPackageWizardPage.REFACTORINGS"/>
+		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
+		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
+		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="Nfe310.jar"/>
+		</list>
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>

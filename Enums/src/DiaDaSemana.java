@@ -16,7 +16,7 @@ public enum DiaDaSemana {
 	}
 	
 	public int getnum() {
-		// TODO Auto-generated method stub
+		
         return num;
 	}
 		

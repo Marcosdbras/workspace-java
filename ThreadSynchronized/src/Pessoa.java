@@ -19,12 +19,7 @@ public class Pessoa implements Runnable{
 			   Thread.sleep(100);
 			   
 			   contaBancaria.depositar(200);
-			   Thread.sleep(100);
-			   
-			   
-				
-
-				
+			   Thread.sleep(100);				
 				
 			} catch (Exception e) {
 				

@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-<<<<<<< HEAD
-		<item value="/home/marcosbras/eclipse-workspace/programTestEstrutural"/>
-		<item value="/home/marcosbras/eclipse-workspace/Interface"/>
-		<item value="/home/marcosbras/eclipse-workspace/frenteCaixa"/>
-		<item value="/home/marcosbras/eclipse-workspace/ClassesAbstratas"/>
-		<item value="/home/marcosbras/eclipse-workspace/Modificadores_ContaCorrente/src"/>
+		<item value="/home/marcosbras/ProjetoJava"/>
+		<item value="/home/marcosbras/eclipse-workspace/Listas"/>
+		<item value="/home/marcosbras/eclipse-workspace/WaitNotify"/>
 	</list>
-	<section name="ExternalProjectImportWizard">
-	</section>
-	<section name="ResourceNavigator">
-		<item value="Aggregate for window 1499089681077" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
-		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	<section name="DialogMarkerPropertiesDialogSettings">
+		<item value="835" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="328" key="DIALOG_HEIGHT"/>
+		<item value="96" key="DIALOG_X_ORIGIN"/>
+		<item value="156" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="NewWizardAction">
-	</section>
-	<section name="ChooseWorkspaceDialogSettings">
-		<item value="168" key="DIALOG_X_ORIGIN"/>
-		<item value="162" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="SaveAsDialogSettings">
 		<item value="613" key="DIALOG_WIDTH"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 		<item value="599" key="DIALOG_HEIGHT"/>
-		<item value="-91" key="DIALOG_X_ORIGIN"/>
+		<item value="-130" key="DIALOG_X_ORIGIN"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
-=======
-		<item value="C:\Users\marco\eclipse-workspace\Listas"/>
-	</list>
->>>>>>> 029b49c54cb85cc32cd944a2b427dd9a60a461af
 </section>
